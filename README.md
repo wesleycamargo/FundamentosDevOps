@@ -14,9 +14,7 @@
 - Controle de versão remoto      
   - Enviando meu repositório local para um remoto
     - git remote
-    - git push      
-  - Sincronizando um repositório remoto com o local
-    - git pull        
+    - git push             
   - Copiando um repositório remoto 
     - git clone      
 - Trabalhando em paralelo 
@@ -24,6 +22,8 @@
       - git branch
     - Integrando código
       - git request-pull
+    - Sincronizando um repositório remoto com o local
+      - git pull 
       
 ## Pipelines
 - Criação de um pipeline

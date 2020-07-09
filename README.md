@@ -31,3 +31,8 @@
 	- Stagings
 	- Tasks
 	- Aprovações
+	
+## Work Items
+- Criando um Work Item
+- Sprints
+- Kanban
